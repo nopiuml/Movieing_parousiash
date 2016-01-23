@@ -1,0 +1,89 @@
+/*@media only screen 
+and (min-width : 1824px){
+body{
+	min-width : 1824px;
+}*/
+
+h2{
+	font-size:80px;color:black;
+	padding:10px;
+	text-shadow: 4px 4px #787878; 
+    
+
+	}
+	
+#submit {
+ /*color: #fff;*/
+ font-size: 0;
+ width: 135px;
+ height: 60px;
+ border: none;
+ margin: 0;
+ padding: 0;
+  
+}
+
+.container
+{
+	/*margin-bottom:300px;*/
+	height:100px;
+	position:top;
+	width:100%;
+	/*background-color:FFCC00;*/
+	background-color:#909090;
+}
+
+.hrefs{
+	margin:-10px 5px 0px 1450px;
+	font-size:20px;
+	color:black;
+	text-shadow: 0px 0px ; 
+	
+}
+.buttons{
+	margin:-10px 400px 0px 900px;
+	
+}
+
+.movie_titles{
+	font-size:40px;
+	color:black;
+}
+
+.p_descr{
+	font-size:20px;
+	color:black;
+}
+
+.p_dir{
+	font-size:20px;
+	color:black;
+	font-weight:bold;
+}
+
+.selection{
+	margin:-10px 5px 0px 1450px;
+	font-size:15px;
+	color:black;
+	text-shadow: 0px 0px ; 
+}
+.forming{
+	
+}
+ 
+
+div#div2
+{
+/*-webkit-transform:rotateX(120deg); /* Chrome, Safari, Opera */
+transform:rotateX(120deg); /* Standard syntax */
+}
+
+.container_user{
+	height:300px;
+	position:relative;
+	width:100%;
+	background-color:#202022;
+	shape:rectangular;
+}
+/*}
+*/
